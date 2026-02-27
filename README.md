@@ -4,10 +4,10 @@ A simple React application that fetches and displays blog posts from a public AP
 
 ## Features
 
-- 🚀 Fetches data from JSONPlaceholder API
-- 📱 Responsive design
-- ⚡ Loading and error state handling
-- 🎨 Clean card-based UI
+-  Fetches data from JSONPlaceholder API
+-  Responsive design
+-  Loading and error state handling
+-  Clean card-based UI
 
 ## Getting Started
 
